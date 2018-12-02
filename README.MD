@@ -6,7 +6,7 @@ using ([readline](https://nodejs.org/api/readline.html)) for stdin/stdout intera
 ## Basic Usage
 ```bash
 # clone repo and install dependencies
-$ git clone https://github.com/mhuynh1/gumball.git
+$ git clone https://github.com/mhuynh1/TDD-gumball.git
 $ npm i
 ```
 ```bash
